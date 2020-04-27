@@ -14,7 +14,7 @@ date3 = []'''
 class ThearteSeats:
     def __init__(self, master):
         self.customerDetails = []
-        master.title('Title')
+        master.title('Thearte')
         master.option_add('*Font', 'Georgia 12')
         master.option_add('*background', 'grey20')
         master.option_add('*label.Font', 'helvetica 14')
